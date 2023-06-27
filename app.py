@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
 from PIL import Image
+from streamlit_lottie import st_lottie
 
 st.set_page_config(page_title="Aaditya's Streamlit Site",page_icon=":sign_of_the_horns:", layout="wide" )
 
